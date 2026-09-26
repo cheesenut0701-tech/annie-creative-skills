@@ -1,0 +1,6 @@
+interface:
+  display_name: "Annie 多风格海报设计"
+  short_description: "从主题出发选择剧场、赛博、拼贴、水墨或自然等海报方向"
+  brand_color: "#B63B55"
+  default_prompt: "Use $annie-poster-design to create a concept-led poster in the most fitting Annie art direction."
+

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Annie 视觉与文案风格"
+  short_description: "复用 Annie 的编辑式构图、拼贴审美与轻盈文案风格"
+  brand_color: "#3F78D8"
+  default_prompt: "Use $annie-portfolio-style to create this content in Annie's visual and copywriting style."

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Annie 摄影风格"
+  short_description: "提炼 Annie 的风光、旅行、建筑、黑白与舞台摄影观看方式"
+  brand_color: "#315F86"
+  default_prompt: "Use $annie-photography-style to plan, edit, or sequence this photography project in Annie's photographic language."

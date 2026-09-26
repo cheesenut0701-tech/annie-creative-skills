@@ -1,0 +1,6 @@
+interface:
+  display_name: "Annie 推文与运营长图"
+  short_description: "按主题切换多种审美，制作清晰又有节奏的推文和运营长图"
+  brand_color: "#7DBE67"
+  default_prompt: "Use $annie-social-editorial to turn this content into an Annie-style social-media long graphic."
+
