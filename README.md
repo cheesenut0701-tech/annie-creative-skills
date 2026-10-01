@@ -27,6 +27,26 @@
 
 ![Photography style demo](demos/photography-style-demo.jpg)
 
+#### 摄影生成示例
+
+以下作品使用 `annie-photography-style` 提供摄影方向，再以 AI 图像生成完成。它们用于展示 Skill 如何根据不同题材切换空间、光线与色彩判断，而不是套用同一滤镜。
+
+**舞台摄影｜红橙主光、蓝色轮廓光与观众前景**
+
+![Stage performance photography](demos/photography/stage-performance.png)
+
+**风景摄影｜雨后山湖、雾中层次与微小人物尺度**
+
+![Misty lake landscape photography](demos/photography/misty-lake-landscape.png)
+
+**人物摄影｜雨窗自然光、旧排练室与克制冷暖关系**
+
+![Rain window environmental portrait](demos/photography/rain-window-portrait.png)
+
+**超现实摄影｜剧场、湖面与远山的真实空间错位**
+
+![Surreal flooded theatre photography](demos/photography/surreal-flooded-theatre.png)
+
 ## 设计方向
 
 ### 推文
@@ -57,6 +77,8 @@
 - 低调黑白空间
 - 夜间舞台红光
 - 旅行静物与纹理
+- 环境人物与自然光叙事
+- 基于真实摄影语言的超现实空间
 
 ## 安装
 
